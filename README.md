@@ -1,7 +1,7 @@
 # Milestone 5
 
 # General information
-This project investigates how the use of slang in English literature has changed between 1980 and 2010, using Project Gutenberg. Through text analysis, this research wants to discover patterns and trends in how slang has been incorporated into books, reflecting linguistic and cultural changes.
+This project investigates how the use of slang in English literature has changed in the years 1980 and 2010, using Project Gutenberg. Through text analysis, this research wants to discover patterns and trends in how slang has been incorporated into books, reflecting linguistic and cultural changes.
 
 # Background information
 A few studies have researched use of slang in different time periods:
@@ -11,7 +11,7 @@ Interrelationships between language and literature from old English to the moder
 Twentieth century English literature - Harry Blamires
 
 # Research questions and hypothesis
-My research question is: How has the use of slang in English literature changed between 1980 and 2010?
+Research question: How has the use of slang in English literature changed between 1980 and 2010?
 
 My hypothesis for this question is that the frequency and variety of slang terms increase in English literature in 2010.
 
