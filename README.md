@@ -5,11 +5,14 @@ This project investigates how the use of slang in English literature has changed
 
 # Background information
 A few studies have researched use of slang in different time periods:
+
 Interrelationships between language and literature from old English to the modern period - Zare Behtash Esmail
+
 Twentieth century English literature - Harry Blamires
 
 # Research questions and hypothesis
 My research question is: How has the use of slang in English literature changed between 1980 and 2010?
+
 My hypothesis for this question is that the frequency and variety of slang terms increase in English literature in 2010.
 
 # Method
