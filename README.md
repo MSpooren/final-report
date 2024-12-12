@@ -17,4 +17,5 @@ My hypothesis for this question is that the frequency and variety of slang terms
 
 # Method
 Project Gutenberg will be used during this research. I will try to find one author that wrote books in both time periods, otherwise I will use books in the same genre and authors who might have similar writing styles or backgrounds. I will define which slang words I'll be using in the research, this will differ per time per time period. 
+
 The goal of this research will be to provide a detailed account of the evolution of slang in literature and with that finding out if there is a connection between linguistic changes and cultural changes.
