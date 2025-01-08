@@ -20,4 +20,4 @@ My hypothesis for this question is that the variety of slang terms increase in E
 # Method
 Project Gutenberg will be used during this research. I will try to find one author that wrote books in both time periods, for this I have chosen the author Frances Hodgson Burnett's Little Lord Faunteroy (1886) and The Secret Garden (1911). I will define which slang words I'll be using in the research, this will differ per time per time period.
 
-Datasets: https://www.kaggle.com/datasets/therohk/urban-dictionary-words-dataset
+American slang dictionary: https://www.alphadictionary.com/slang
