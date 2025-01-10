@@ -10,7 +10,7 @@ A few studies have researched use of slang in different time periods:
 
 Interrelationships between language and literature from old English to the modern period - Zare Behtash Esmail
 
-Twentieth century English literature - Harry Blamires
+Slang in literature? Freddy Macha's short story "Check Bob" - Elena Bertoncini-Zubkova
 
 # Research questions and hypothesis
 Research question: How has the use of slang in English literature changed between 1886 and 1911?
