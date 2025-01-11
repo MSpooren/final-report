@@ -1,4 +1,4 @@
-# Milestone 5
+# FInal report
 
 # General information
 This project investigates how the use of slang in English literature has changed in the years 1886 and 1911, using Project Gutenberg. Through text analysis, this research wants to discover patterns and trends in how slang has been incorporated into books, reflecting linguistic and cultural changes.
